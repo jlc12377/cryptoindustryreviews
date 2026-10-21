@@ -67,4 +67,4 @@ User-agent: YouBot
 Allow: /
 
 # Sitemap location
-Sitemap: https://cryptoindustryreviews.com/sitemap.xml
+Sitemap: https://www.cryptoindustryreviews.com/sitemap.xml
